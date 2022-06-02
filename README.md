@@ -3,17 +3,11 @@
 .
 .
 
-<style>
-  div {
-    text-align: center;
-    vertical-align: bottom;
-  }
-</style>
 
 <p align="left">
  :rocket: Some GitHub stats:
 </p>
- <div>
+ <div vertical-align="bottom">
 
   <img align="left" vertical-align="bottom" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esettes&theme=tokyonight&layout=compact" />
   <img align="center"  width="280" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esettes&theme=tokyonight" />
