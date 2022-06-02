@@ -2,7 +2,7 @@
 .
 .
 .
-
+```html
 <div>
 <p align="left">
  :rocket: Some GitHub stats:
@@ -23,3 +23,4 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 [![Coffee](https://github.com/esettes/esettes/blob/main/src/built-with-coffee.svg)](https://github.com/esettes)
+```
