@@ -4,6 +4,6 @@
 Some GitHub stats:
  </p>
 
- <a href="![Most commit language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esettes&theme=dracula)"</a>
+![Most commit language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esettes&theme=dracula)
   ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=esettes&theme=dracula&utcOffset=8)
 
