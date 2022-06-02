@@ -26,4 +26,4 @@
 
 [![Coffee](https://github.com/esettes/esettes/blob/main/src/built-with-coffee.svg)](https://github.com/esettes)
 
-<a href="https://github.com/esettes/esettes/blob/main/src/built-with-coffee.svg"><img width="300" align='right' src="https://github.com/esettes/esettes/blob/main/src/built-with-coffee.svg"></a>
+<a href="https://github.com/esettes/esettes/blob/main/src/built-with-coffee.svg"><img width="100" align='left' src="https://github.com/esettes/esettes/blob/main/src/built-with-coffee.svg"></a>
