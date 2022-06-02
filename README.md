@@ -9,9 +9,9 @@
  </p>
  <div class="container">
   <p align="center">
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esettes&theme=tokyonight&layout=compact)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/esettes))
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esettes&theme=tokyonight&layout=compact)](https://github.com/esettes)
 
-    <a href="https://waylonwalker.com/latest](https://github-readme-stats.vercel.app/api/top-langs/?username=esettes&theme=tokyonight&layout=compact"><img width="300" align='right'></a>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=esettes&theme=tokyonight&layout=compact"><img width="300" align='right'></a>
    
    
    [![Most commit language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esettes&theme=tokyonight)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/esettes))
@@ -26,3 +26,4 @@
 
 [![Coffee](https://github.com/esettes/esettes/blob/main/src/built-with-coffee.svg)](https://github.com/esettes)
 
+<a href="https://github.com/esettes/esettes/blob/main/src/built-with-coffee.svg"><img width="300" align='right' src="https://github.com/esettes/esettes/blob/main/src/built-with-coffee.svg"></a>
