@@ -1,3 +1,6 @@
 ### Hi!
 
-![Most commited languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=esettes&theme=dark)
+<p align="center">
+  ![Most commit language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esettes&theme=dracula)
+  ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=esettes&theme=dracula&utcOffset=8)
+</p>
