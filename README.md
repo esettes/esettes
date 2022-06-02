@@ -2,8 +2,7 @@
 .
 .
 .
-https://forthebadge.com/images/badges/contains-cat-gifs.svg
-[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)]
+
 <div>
 <p align="left">
  :rocket: Some GitHub stats:
@@ -23,4 +22,4 @@ https://forthebadge.com/images/badges/contains-cat-gifs.svg
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
-
+![Coffee](https://github.com/esettes/esettes/blob/main/src/built-with-coffee.svg)
