@@ -9,7 +9,7 @@
 </p>
  <div vertical-align="bottom">
 
-  <img align="left" vertical-align="bottom" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esettes&theme=tokyonight&layout=compact" />
+  <img align="left" vertical-align="bottom" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esettes&theme=tokyonight&layout=compact" />
   <img align="center"  width="280" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esettes&theme=tokyonight" />
  <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=esettes&theme=tokyonight&utcOffset=8" />
  
