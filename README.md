@@ -9,9 +9,11 @@
  </p>
  <div class="container">
   <p align="center">
-  <div class="stat_1" width= 50%>
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esettes&theme=tokyonight&layout=compact)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/esettes))
- </div>
+
+    <a href="https://waylonwalker.com/latest](https://github-readme-stats.vercel.app/api/top-langs/?username=esettes&theme=tokyonight&layout=compact"><img width="300" align='right'></a>
+   
+   
    [![Most commit language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esettes&theme=tokyonight)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/esettes))
    [![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=esettes&theme=tokyonight&utcOffset=8)](https://github.com/esettes)
 
