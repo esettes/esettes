@@ -30,6 +30,8 @@
 
 ## Tools/other
 
+<div height="20">
+ 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -38,4 +40,5 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
+ </div>
 <!-- <a href="https://github.com/esettes"><img width="170" align='left' src="https://github.com/esettes/esettes/blob/main/src/built-with-coffee.svg"></a> -->
