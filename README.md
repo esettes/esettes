@@ -2,12 +2,12 @@
 .
 .
 .
-```html
-<div>
+
+
 <p align="left">
  :rocket: Some GitHub stats:
  </p>
- 
+ <div class="container">
  <p align="center">
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esettes&theme=tokyonight&layout=compact)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/esettes))
@@ -23,4 +23,4 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 [![Coffee](https://github.com/esettes/esettes/blob/main/src/built-with-coffee.svg)](https://github.com/esettes)
-```
+
