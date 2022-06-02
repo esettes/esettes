@@ -11,9 +11,7 @@
 
   <img align="left" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esettes&theme=tokyonight&layout=compact" />
   <img align="center" width="240" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esettes&theme=tokyonight" />
- <p align="right">
-  
- [![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=esettes&theme=tokyonight&utcOffset=8)](https://github.com/esettes)
+ <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=esettes&theme=tokyonight&utcOffset=8" />
   
  </p>
 </div>
