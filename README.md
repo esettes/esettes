@@ -8,7 +8,7 @@
  :rocket: Some GitHub stats:
 </p>
  <div class="container">
- <p>
+ <p width="950">
   <img align="left" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esettes&theme=tokyonight&layout=compact" />
   <img align="center" width="240" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esettes&theme=tokyonight" />
   
