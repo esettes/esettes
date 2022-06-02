@@ -4,13 +4,14 @@
 .
 https://forthebadge.com/images/badges/contains-cat-gifs.svg
 [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)]
+<div>
 <p align="left">
  :rocket: Some GitHub stats:
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esettes&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
 </p>
- ______________________________________________________________________________
+
  
 <p align="center">
  
@@ -18,3 +19,7 @@ https://forthebadge.com/images/badges/contains-cat-gifs.svg
  ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=esettes&theme=tokyonight&utcOffset=8)
  
 </p>
+</div>
+
+Languages 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
