@@ -3,7 +3,7 @@
 .
 .
 https://forthebadge.com/images/badges/contains-cat-gifs.svg
-[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)]
 <p align="left">
  :rocket: Some GitHub stats:
  
