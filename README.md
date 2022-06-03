@@ -15,7 +15,7 @@
   <img align="right" height="140"src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=esettes&theme=tokyonight&utcOffset=8" />
 </div>
 
-#### Skills
+#### :smirk_cat: Skills
 
 * * *
 
@@ -31,7 +31,7 @@
 </div>
 
 
-#### Interests
+#### :hatching_chick: Interests
 
 * * *
 
