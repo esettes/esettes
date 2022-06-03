@@ -4,9 +4,11 @@
 .
 
 
-<p align="left">
+
  :rocket: Some GitHub stats:
-</p>
+
+* * *
+
  <div vertical-align="bottom">
 
   <img align="left" vertical-align="bottom" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esettes&theme=tokyonight&layout=compact" />
@@ -27,6 +29,8 @@
 
 
 ## Languages/frameworks
+
+* * *
 
 <div display="block">
  
@@ -52,6 +56,8 @@
 
 
 ## Tools/other
+
+* * *
 
 <div height="20">
  
