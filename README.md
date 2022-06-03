@@ -22,7 +22,7 @@
  
 <img border="1" align="left" padding-left="1" display="block" height="4%" width="4%" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" />
 <img border="1" align="left" line-height"0" display="inline-block" padding-left:"1%" height="4%" width="4%" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" />
-<img margin="1" align="left" font-size="0" height="4%" width="4%" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" />
+<img margin="1" align="center" font-size="0" height="4%" width="4%" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" />
 <img align="left" height="4%" width="4%" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" />
 <img align="left" height="4%" width="4%" src="https://github.com/esettes/esettes/blob/main/src/Heckert_GNU_white.png" />
 
