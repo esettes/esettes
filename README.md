@@ -1,4 +1,4 @@
-## Hi!  <img height="5%" width="5%" align="right" src="https://github.com/esettes/esettes/blob/main/src/gh-px.gif" />
+## Hi!  <img height="5%" width="5%" align="right" src="https://github.com/esettes/esettes/blob/main/src/gh-px.gif" /> <img height="4%" width="4%" align="right" margin="40" src="https://github.com/esettes/esettes/blob/main/src/GDB_Archer_Fish_by_Andreas_Arnez.png" /> <img height="4%" width="4%" align="right" margin="50" src="https://github.com/esettes/esettes/blob/main/src/GDB_Archer_Fish_by_Andreas_Arnez.png" />
 .
 .
 .
@@ -15,57 +15,29 @@
   <img align="right" height="140"src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=esettes&theme=tokyonight&utcOffset=8" />
 </div>
 
-
-
-
-### Skills
+#### Skills
 
 * * *
 
 <div align="bottom">
- <img title="Git" align="left" height="3.2%" width="3.2%" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" />
- <img title="JavaScript" align="left" height="3.1%" width="3.1%" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" />
- <img title="C" align="left" height="3%" width="3%" src="https://github.com/esettes/esettes/blob/main/src/c.svg" />
- <img title="GNU tools" align="left" height="3.8%" width="3.8%" src="https://github.com/esettes/esettes/blob/main/src/Heckert_GNU_white.png" />
- <img title="C#" align="left" height="4%" width="4%" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" />
- <img title="Unity" align="left" height="3.2%" width="3.2%" src="https://github.com/esettes/esettes/blob/main/src/unity.svg" />
- <img title="Java" align="left" align="bottom" height="2.6%" width="2.6%" src="https://github.com/esettes/esettes/blob/main/src/java.svg" />
- <img title="Spring" align="bottom" align="left" height="4.5%" width="4.5%" src="https://github.com/esettes/esettes/blob/main/src/spring.svg" />
+ <img title="Git" align="left" height="3%" width="3%" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" />
+ <img title="JavaScript" align="left" height="2.9%" width="2.9%" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" />
+ <img title="C" align="left" height="2.9%" width="2.9%" src="https://github.com/esettes/esettes/blob/main/src/c.svg" />
+ <img title="GNU tools" align="left" height="3.6%" width="3.6%" src="https://github.com/esettes/esettes/blob/main/src/Heckert_GNU_white.png" />
+ <img title="C#" align="left" height="3.8%" width="3.8%" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" />
+ <img title="Unity" align="left" height="3%" width="3%" src="https://github.com/esettes/esettes/blob/main/src/unity.svg" />
+ <img title="Java" align="left" align="bottom" height="2.4%" width="2.4%" src="https://github.com/esettes/esettes/blob/main/src/java.svg" />
+ <img title="Spring" align="bottom" align="left" height="4.3%" width="4.3%" src="https://github.com/esettes/esettes/blob/main/src/spring.svg" />
 </div>
 
-### Interests
+
+#### Interests
+
 * * *
 
 <div align="bottom">
-<img align="left" height="4%" width="4%" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img align="left" height="4%" width="4%" src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" />
- <img title="npm" height="4%" width="4%" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" />
- <img title="OpenGL" height="4%" width="4%" src="https://github.com/esettes/esettes/blob/main/src/opengl.svg" />
-  <img align="left" height="4%" width="4%" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img align="left" height="20" width="40" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img align="left" height="20" width="50" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img align="left" height="20" width="60" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-
- 
- <img align="left" height="20" width="60" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
- <img align="left" height="20" width="60" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+ <img align="left" title="ThreeJS" height="3.4%" width="3.4%" src="https://github.com/esettes/esettes/blob/main/src/threejs%20(1).svg" />
+ <img align="left" title="npm" height="3.8%" width="3.8%" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" />
+ <img align="bottom" align="center" title="OpenGL" height="4%" width="4%" src="https://github.com/esettes/esettes/blob/main/src/opengl.svg" />
 </div>
 
-
-
-### Tools/other
-
-* * *
-
-<div height="20">
- 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-
- </div>
-<!-- <a href="https://github.com/esettes"><img width="170" align='left' src="https://github.com/esettes/esettes/blob/main/src/built-with-coffee.svg"></a> -->
