@@ -18,7 +18,7 @@
 
 ## Languages/frameworks
 
-<div>
+<div display="block">
  
 <img border="1" align="left" display="block" height="4%" width="4%" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" />
 <img border="1" align="left" line-height"0" display="block" padding-left:"1%" height="4%" width="4%" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" />
