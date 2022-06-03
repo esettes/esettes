@@ -1,4 +1,4 @@
-## Hi!  <img height="5%" width="5%" align="right" src="https://github.com/esettes/esettes/blob/main/src/gh-px.gif" /> <img height="4%" width="4%" align="right" margin="40" src="https://github.com/esettes/esettes/blob/main/src/GDB_Archer_Fish_by_Andreas_Arnez.png" /> <img height="4%" width="4%" align="right" margin="50" src="https://github.com/esettes/esettes/blob/main/src/GDB_Archer_Fish_by_Andreas_Arnez.png" />
+## Hi!  <img height="5.2%" width="5.2%" align="right" src="https://github.com/esettes/esettes/blob/main/src/gh-px.gif" />
 .
 .
 .
