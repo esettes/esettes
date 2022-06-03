@@ -1,4 +1,4 @@
-## Hi! :alien:
+## Hi!  <img height="5%" width="5%" align="right" src="https://github.com/esettes/esettes/blob/main/src/gh-px.gif" />
 .
 .
 .
@@ -18,23 +18,29 @@
 
 
 
-### Languages/frameworks
+### Skills
 
 * * *
 
-<div vertical-align="left">
- <img height="3%" width="3%" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" />
- <img height="3%" width="3%" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" />
- <img height="4%" width="4%" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" />
- <img height="4%" width="4%" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" />
- <img height="4%" width="4%" src="https://github.com/esettes/esettes/blob/main/src/Heckert_GNU_white.png" />
+<div align="bottom">
+ <img title="Git" align="left" height="3.2%" width="3.2%" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" />
+ <img title="JavaScript" align="left" height="3.1%" width="3.1%" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" />
+ <img title="C" align="left" height="3%" width="3%" src="https://github.com/esettes/esettes/blob/main/src/c.svg" />
+ <img title="GNU tools" align="left" height="3.8%" width="3.8%" src="https://github.com/esettes/esettes/blob/main/src/Heckert_GNU_white.png" />
+ <img title="C#" align="left" height="4%" width="4%" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" />
+ <img title="Unity" align="left" height="3.2%" width="3.2%" src="https://github.com/esettes/esettes/blob/main/src/unity.svg" />
+ <img title="Java" align="left" align="bottom" height="2.6%" width="2.6%" src="https://github.com/esettes/esettes/blob/main/src/java.svg" />
+ <img title="Spring" align="bottom" align="left" height="4.5%" width="4.5%" src="https://github.com/esettes/esettes/blob/main/src/spring.svg" />
 </div>
 
+### Interests
 * * *
 
 <div align="bottom">
 <img align="left" height="4%" width="4%" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img align="left" height="4%" width="4%" src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" />
+ <img title="npm" height="4%" width="4%" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" />
+ <img title="OpenGL" height="4%" width="4%" src="https://github.com/esettes/esettes/blob/main/src/opengl.svg" />
   <img align="left" height="4%" width="4%" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img align="left" height="20" width="40" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img align="left" height="20" width="50" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
