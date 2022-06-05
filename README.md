@@ -1,10 +1,10 @@
-## Hi, I'm Roxana! 😸 <img height="5.2%" width="5.2%" align="right" src="https://github.com/esettes/esettes/blob/main/src/gh-px.gif" />
+## Hi, I'm Roxana! 😸 <img height="3%" width="3%" align="right" src="https://github.com/esettes/esettes/blob/main/src/gh-px.gif" />
 
 <br>
 <p align="left">
  Born in 1995,  interested in plastic and visual arts since I was little, and not long ago, in computer programming.
 </p>
-<img height="10%" width="10%" align="left" src="https://github.com/esettes/esettes/blob/main/src/typing-kitty.gif" />
+<img height="11%" width="11%" align="left" src="https://github.com/esettes/esettes/blob/main/src/typing-kitty.gif" />
 
 <br><br><br>
 
