@@ -28,11 +28,10 @@
   <img align="right" height="140"src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=esettes&theme=tokyonight&utcOffset=8" />
 </div>
 
-<br>
+<br><br><br>
 
 #### Skills
 
-----
 
  <div>
  	<code><img title="GNU tools" height="30" src="https://github.com/esettes/esettes/blob/main/src/Heckert_GNU_white.png" /></code>
@@ -53,11 +52,10 @@
 </div>
 
 
-<br>
+<br><br>
 
 #### Interests
 
-----
 
 <div align="bottom">
  <code><img title="ThreeJS" height="30" src="https://github.com/esettes/esettes/blob/main/src/threejs%20(1).svg" /></code>
