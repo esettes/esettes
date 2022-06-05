@@ -3,7 +3,7 @@
 .
 .
 
-
+[Practicing ThreeJS with Typescript in GitHub pages](https://esettes.github.io/webpack-threejs-pract/dist/client/) - _Some geometries dancing in the air, project builded with webpack_
 
 ### :rocket: Some GitHub stats:
 
