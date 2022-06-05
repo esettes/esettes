@@ -11,7 +11,7 @@
 <br><br><br><br>
 
 
-#### Practice projects using GitHub pages, ThreeJS and webpack
+#### Practice projects using GitHub pages, ThreeJS and builded with npm and webpack.
 
 - [ThreeJS with Typescript](https://esettes.github.io/webpack-threejs-pract/dist/client/) - _Some cubes dancing in the air._
 
