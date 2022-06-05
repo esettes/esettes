@@ -1,19 +1,21 @@
-## Hi, I'm Roxana! 😸 <img height="3%" width="3%" align="right" src="https://github.com/esettes/esettes/blob/main/src/gh-px.gif" />
+
+##        Hi, I'm Roxana! 😸 <img height="3%" width="3%" align="right" src="https://github.com/esettes/esettes/blob/main/src/gh-px.gif" />
 
 <br>
-<p align="left">
- Born in 1995,  interested in plastic and visual arts since I was little, and not long ago, in computer programming.
+<p align="right">
+ <img height="11%" width="11%" align="left" src="https://github.com/esettes/esettes/blob/main/src/typing-kitty.gif" /> 
+	Born in 1995,  interested in plastic and visual arts since I was little, and not long ago, in computer programming.
 </p>
 <img height="11%" width="11%" align="left" src="https://github.com/esettes/esettes/blob/main/src/typing-kitty.gif" />
 
-<br><br><br>
+<br><br><br><br>
 
 
 #### Practice projects using GitHub pages, ThreeJS and webpack
 
 - [ThreeJS with Typescript](https://esettes.github.io/webpack-threejs-pract/dist/client/) - _Some cubes dancing in the air._
 
-<br>
+<br><br>
 
 ### :rocket: Some GitHub stats:
 
@@ -32,21 +34,23 @@
 ----
 
  <div>
- <img title="GNU tools" style="vertical-align:top; margin:4px" height="4.3%" width="4.3%" src="https://github.com/esettes/esettes/blob/main/src/Heckert_GNU_white.png" />
- <img title="Git" style="vertical-align:top; margin:4px" height="4.5%" width="4.5%" src="https://github.com/esettes/esettes/blob/main/src/git-.svg" />
- <img title="JavaScript" style="vertical-align:top; margin:4px" height="3.9%" width="3.9%" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" />
- <img title="TypeScript" style="vertical-align:top; margin:4px" height="3.9%" width="3.9%" src="https://github.com/esettes/esettes/blob/main/src/typescript.svg" />
- <img title="C" style="vertical-align:top; margin:4px" height="3.4%" width="3.4%" src="https://github.com/esettes/esettes/blob/main/src/c-program.svg" />
- 
- <img title="C#" style="vertical-align:top; margin:4px" height="4.3%" width="4.3%" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" />
- <img title="Unity" style="vertical-align:top; margin:4px" height="3.8%" width="3.8%" src="https://github.com/esettes/esettes/blob/main/src/unity.svg" />
- <img title="Java" style="vertical-align:top; margin:4px" height="3%" width="3%" src="https://github.com/esettes/esettes/blob/main/src/java.svg" />
- <img title="Spring"style="vertical-align:top; margin:4px" height="4.8%" width="4.8%" src="https://github.com/esettes/esettes/blob/main/src/spring.svg" />
- <img title="HTML"style="vertical-align:top; margin:4px" height="3%" width="3%" src="https://github.com/esettes/esettes/blob/main/src/html-5.svg" />
+ 	<code><img title="GNU tools" height="30" src="https://github.com/esettes/esettes/blob/main/src/Heckert_GNU_white.png" /></code>
+ 	<code><img title="Git" height="35" src="https://github.com/esettes/esettes/blob/main/src/git-.svg" /></code>
+ 	<code><img title="JavaScript" height="30" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" /></code>
+  <code><img title="TypeScript" height="30" src="https://github.com/esettes/esettes/blob/main/src/typescript.svg" /></code>
+  <code><img title="C" height="30" src="https://github.com/esettes/esettes/blob/main/src/c-program.svg" /></code>
+  <code><img title="C#" height="30" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" /></code>
+  <code><img title="Unity" height="30" src="https://github.com/esettes/esettes/blob/main/src/unity.svg" /></code>
+  <code><img title="Java" height="30" src="https://github.com/esettes/esettes/blob/main/src/java.svg" /></code>
+  <code><img title="Spring" height="15" src="https://github.com/esettes/esettes/blob/main/src/spring.svg" /></code>
+  <code><img title="HTML" height="35" src="https://github.com/esettes/esettes/blob/main/src/html-5.svg" /></code>
+  <code><img title="CSS" height="35" src="https://github.com/esettes/esettes/blob/main/src/css-3.svg" /></code>
+	<code><img title="bash" height="35" src="https://raw.githubusercontent.com/esettes/esettes/56cf3650b57d4e70249948d5e6bb186ad4553626/src/bash.svg" /></code>
+  <code><img title="Vim" height="30" src="https://github.com/esettes/esettes/blob/main/src/vim-.svg" /></code>
+  <code><img title="VS Code" height="30" src="https://github.com/esettes/esettes/blob/main/src/visual-studio-code.svg" /></code>
+  <code><img title="Visual Studio 2019/2022" height="30" src="https://github.com/esettes/esettes/blob/main/src/visual-studio.svg" /></code>
 </div>
 
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=esettes)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
@@ -55,8 +59,11 @@
 ----
 
 <div align="bottom">
- <img align="left" title="ThreeJS" height="3.4%" width="3.4%" src="https://github.com/esettes/esettes/blob/main/src/threejs%20(1).svg" />
- <img align="left" title="npm" height="3.8%" width="3.8%" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" />
- <img align="bottom" align="center" title="OpenGL" height="4%" width="4%" src="https://github.com/esettes/esettes/blob/main/src/opengl.svg" />
+ <code><img title="ThreeJS" height="30" src="https://github.com/esettes/esettes/blob/main/src/threejs%20(1).svg" /></code>
+ <code><img title="npm" height="30" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" /></code>
+ <code><img title="OpenGL" height="25" src="https://github.com/esettes/esettes/blob/main/src/opengl.svg" /></code>
+ <code><img title="WebPack" height="30" src="https://github.com/esettes/esettes/blob/main/src/webpack.svg" /></code>
+ <code><img title="NodeJS" height="30" src="https://github.com/esettes/esettes/blob/main/src/nodejs-icon.svg" /></code>
+ <code><img title="C++" height="30" src="https://github.com/esettes/esettes/blob/main/src/c-plusplus.svg" /></code>
 </div>
 
