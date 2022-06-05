@@ -20,8 +20,8 @@
 * * *
 
  <div vertical-align="bottom">
-  <img align="left" vertical-align="bottom" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esettes&theme=tokyonight&layout=compact" />
-  <img align="center"  width="230" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esettes&theme=tokyonight" />
+  <img align="left" vertical-align="bottom" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esettes&langs_count=8&theme=tokyonight&layout=compact" />
+  <img align="center"  width="230" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esettes&langs_count=8&theme=tokyonight" />
   <img align="right" height="140"src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=esettes&theme=tokyonight&utcOffset=8" />
 </div>
 
@@ -42,8 +42,13 @@
  <img title="Unity" style="vertical-align:top; margin:4px" height="3.8%" width="3.8%" src="https://github.com/esettes/esettes/blob/main/src/unity.svg" />
  <img title="Java" style="vertical-align:top; margin:4px" height="3%" width="3%" src="https://github.com/esettes/esettes/blob/main/src/java.svg" />
  <img title="Spring"style="vertical-align:top; margin:4px" height="4.8%" width="4.8%" src="https://github.com/esettes/esettes/blob/main/src/spring.svg" />
+ <img title="HTML"style="vertical-align:top; margin:4px" height="3%" width="3%" src="https://github.com/esettes/esettes/blob/main/src/html-5.svg" />
 </div>
 
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=esettes)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
 
 #### Interests
 
