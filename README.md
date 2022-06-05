@@ -8,10 +8,10 @@
 </p>
 <img height="11%" width="11%" align="left" src="https://github.com/esettes/esettes/blob/main/src/typing-kitty.gif" />
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 
-#### Practice projects using GitHub pages, ThreeJS and builded with npm and webpack.
+### :star: Practice ThreeJS projects
 
 - [ThreeJS with Typescript](https://esettes.github.io/webpack-threejs-pract/dist/client/) - _Some cubes dancing in the air._
 
