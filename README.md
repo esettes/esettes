@@ -1,10 +1,5 @@
  
- ```diff 
- @@ Hi, I'm Roxana! @@  😸 
- ``` 
-
-
- <img height="3%" width="3%" align="right" src="https://github.com/esettes/esettes/blob/main/src/gh-px.gif" />
+## Hi, I'm Roxana!  😸 <img height="3%" width="3%" align="right" src="https://github.com/esettes/esettes/blob/main/src/gh-px.gif" />
 
 <br>
 
@@ -36,10 +31,7 @@
 
 <br><br><br>
 
-#### Skills
-
-<font style="color: #FFFFFF">hello!</font>
-
+#### :zap: Skills
 
 <div>
 	<code><img title="GNU tools" height="30" src="https://github.com/esettes/esettes/blob/main/src/Heckert_GNU_white.png" /></code>
@@ -60,9 +52,9 @@
 </div>
 
 
-<br><br>
+<br>
 
-#### Interests
+#### :sparkles: Interests
 
 
 <div align="bottom">
@@ -76,7 +68,7 @@
 	<code><img title="C++" height="30" src="https://github.com/esettes/esettes/blob/main/src/c-plusplus.svg" /></code>
 </div>
 
-<br><br><br>
+<br><br><br><br>
 
 ```shell
                                            /\__/\     /\__/\     /\__/\ 
