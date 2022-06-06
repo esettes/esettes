@@ -2,13 +2,12 @@
 ##        Hi, I'm Roxana! 😸 <img height="3%" width="3%" align="right" src="https://github.com/esettes/esettes/blob/main/src/gh-px.gif" />
 
 <br>
-<p align="right">
- <img height="11%" width="11%" align="left" src="https://github.com/esettes/esettes/blob/main/src/typing-kitty.gif" /> 
+<p align="center">
+ <img height="100" align="left" src="https://github.com/esettes/esettes/blob/main/src/typing-kitty.gif" /> 
 	Born in 1995,  interested in plastic and visual arts since I was little, and not long ago, in computer programming.
 </p>
-<img height="11%" width="11%" align="left" src="https://github.com/esettes/esettes/blob/main/src/typing-kitty.gif" />
 
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
 
 ### :star: Practice ThreeJS projects 
