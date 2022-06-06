@@ -22,8 +22,8 @@
 * * *
 
  <div vertical-align="bottom">
-  <img align="left" vertical-align="bottom" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esettes&langs_count=8&theme=tokyonight&layout=compact" />
-  <img align="center"  width="230" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esettes&langs_count=8&theme=tokyonight" />
+  <img align="left" vertical-align="bottom" height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esettes&langs_count=8&theme=tokyonight&layout=compact" />
+  <img align="center"  height="140" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esettes&langs_count=8&theme=tokyonight" />
   <img align="right" height="140"src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=esettes&theme=tokyonight&utcOffset=8" />
 </div>
 
