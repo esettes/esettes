@@ -32,7 +32,7 @@
 <br><br><br>
 
 <div align="center">
-:zap:  Skills 	&nbsp; &nbsp; &nbsp; &nbsp;  _______________________________________________	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :sparkles: Interests 
+|:zap:  Skills 	&nbsp; &nbsp; &nbsp; &nbsp;  _______________________________________________	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :sparkles: Interests 
 </div>
 
 <br>
