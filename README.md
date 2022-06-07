@@ -32,10 +32,10 @@
 <br><br><br>
 
 
-#### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :zap:  Skills	&nbsp; &nbsp; &nbsp; &nbsp;  _______________________________________________	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   :sparkles: Interests 
+#### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    :zap:  Skills	   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  :sparkles: Interests 
 
+* * *
 
-<br>
 
 <div align="center">
 	<img style="align:left; margin=3px" title="GNU tools" height="30" src="https://github.com/esettes/esettes/blob/main/src/Heckert_GNU_white.png" />
@@ -45,7 +45,7 @@
 	<img style="align:left; margin=3px" title="C" height="30" src="https://github.com/esettes/esettes/blob/main/src/c-program.svg" />
 	<img style="align:left; margin=3px" title="C#" height="30" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" />
 	<img style="align:left; margin=3px" title="Unity" height="30" src="https://github.com/esettes/esettes/blob/main/src/unity.svg" />
-	<img style="align:left; margin=3px" title="Java" height="30" src="https://github.com/esettes/esettes/blob/main/src/java.svg" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ________________________ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+	<img style="align:left; margin=3px" title="Java" height="30" src="https://github.com/esettes/esettes/blob/main/src/java.svg" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 	<img style="align:left; margin=3px" title="ThreeJS" height="30" src="https://github.com/esettes/esettes/blob/main/src/threejs%20(1).svg" >
 	<img style="align:left; margin=3px" title="npm" height="35" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" >
 	<img style="align:left; margin=3px" title="WebGL" height="25" src="https://github.com/esettes/esettes/blob/main/src/WebGL_Logo.svg.png" >
@@ -55,7 +55,7 @@
 	<img style="align:left; margin=3px" title="NodeJS" height="30" src="https://github.com/esettes/esettes/blob/main/src/nodejs-icon.svg" />
 	<img style="align:left; margin=3px" title="C++" height="30" src="https://github.com/esettes/esettes/blob/main/src/c-plusplus.svg" />
 </div>
-
+<br>
 <div>
 	&nbsp; &nbsp; &nbsp; &nbsp; 
 	<img style="align:left; margin=3px" title="Spring" height="15" src="https://github.com/esettes/esettes/blob/main/src/spring.svg" />
