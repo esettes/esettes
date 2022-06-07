@@ -31,9 +31,9 @@
 
 <br><br><br>
 
-<div align="center">
-|:zap:  Skills 	&nbsp; &nbsp; &nbsp; &nbsp;  _______________________________________________	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :sparkles: Interests 
-</div>
+
+#### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :zap:  Skills	&nbsp; &nbsp; &nbsp; &nbsp;  _______________________________________________	&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   :sparkles: Interests 
+
 
 <br>
 
