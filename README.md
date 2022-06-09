@@ -60,6 +60,7 @@
 
 #### :sparkles: Interests
 
+* * *
 
 <div align="bottom">
 	<code><img title="ThreeJS" height="30" src="https://github.com/esettes/esettes/blob/main/src/threejs%20(1).svg" /></code>
