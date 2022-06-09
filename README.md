@@ -7,7 +7,7 @@
 <img height="100" align="left" margin-right="50px" src="https://github.com/esettes/esettes/blob/main/src/typing-kitty.gif" />
 
 <div align="right">
-Born in 1995, interested in plastic and visual arts since I was little, and not long ago, in computer programming.
+&nbsp; &nbsp; &nbsp; Born in 1995, interested in plastic and visual arts since I was little, and not long ago, in computer programming.
 </div>
 
 
