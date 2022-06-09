@@ -23,10 +23,10 @@
 
 * * *
 
- <div vertical-align="bottom">
-	<img align="left" vertical-align="bottom" height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esettes&custom_title=Used Languages&exclude_repo=github-readme-stats,anuraghazra.github.io&langs_count=8&theme=tokyonight&layout=compact" />
-	<img align="center"  height="145" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esettes&langs_count=9&theme=tokyonight" />
-	<img align="right" height="145"src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=esettes&theme=tokyonight&utcOffset=8" />
+ <div align="center">
+	<img vertical-align="bottom" height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esettes&custom_title=Used Languages&exclude_repo=github-readme-stats,anuraghazra.github.io&langs_count=8&theme=tokyonight&layout=compact" />
+	<img height="155" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esettes&langs_count=9&theme=tokyonight" />
+	<img height="155"src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=esettes&theme=tokyonight&utcOffset=8" />
 </div>
 
 <br><br><br>
