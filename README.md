@@ -27,8 +27,8 @@
 * * *
 
  <div align="center">
-	<img vertical-align="bottom" height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esettes&custom_title=Most Used Languages&exclude_repo=github-readme-stats,anuraghazra.github.io&langs_count=6&theme=tokyonight&layout=compact" />
-	<img height="145" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esettes&langs_count=9&theme=tokyonight" />
+	<img vertical-align="bottom" height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esettes&custom_title=Most Used Languages&exclude_repo=github-readme-stats,anuraghazra.github.io&langs_count=7&theme=tokyonight&layout=compact" />
+	<img height="145" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esettes&langs_count=6&theme=tokyonight" />
 	<img height="145"src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=esettes&theme=tokyonight&utcOffset=8" />
 </div>
 
