@@ -69,10 +69,9 @@
 	<code><img title="ThreeJS" height="30" src="https://github.com/esettes/esettes/blob/main/src/threejs%20(1).svg" /></code>
 	<code><img title="npm" height="35" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" /></code>
 	<code><img title="WebGL" height="25" src="https://github.com/esettes/esettes/blob/main/src/WebGL_Logo.svg.png" /></code>
-	<code><img title="Vulcan" height="22" src="https://github.com/esettes/esettes/blob/main/src/Vulkan.png" /></code>
+	<code><img title="Vulcan" height="20" src="https://github.com/esettes/esettes/blob/main/src/Vulkan.png" /></code>
 	<code><img title="OpenGL" height="25" src="https://github.com/esettes/esettes/blob/main/src/opengl.svg" /></code>
 	<code><img title="WebPack" height="30" src="https://github.com/esettes/esettes/blob/main/src/webpack.svg" /></code>
-	<code><img title="NextJS" height="30" src="https://github.com/esettes/esettes/blob/main/src/nextjs.png" /></code>
 	<code><img title="NodeJS" height="30" src="https://github.com/esettes/esettes/blob/main/src/nodejs-icon.svg" /></code>
 	<code><img title="C++" height="30" src="https://github.com/esettes/esettes/blob/main/src/c-plusplus.svg" /></code>
 </div>
