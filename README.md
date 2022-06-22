@@ -48,14 +48,9 @@
 	<code><img title="C" height="30" src="https://github.com/esettes/esettes/blob/main/src/c-program.svg" /></code>
 	<code><img title="C#" height="30" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" /></code>
 	<code><img title="Unity" height="30" src="https://github.com/esettes/esettes/blob/main/src/unity.svg" /></code>
-	<code><img title="Java" height="30" src="https://github.com/esettes/esettes/blob/main/src/java.svg" /></code>
-	<code><img title="Spring" height="15" src="https://github.com/esettes/esettes/blob/main/src/spring.svg" /></code>
 	<code><img title="HTML" height="35" src="https://github.com/esettes/esettes/blob/main/src/html-5.svg" /></code>
 	<code><img title="CSS" height="35" src="https://github.com/esettes/esettes/blob/main/src/css-3.svg" /></code>
 	<code><img title="bash" height="35" src="https://raw.githubusercontent.com/esettes/esettes/56cf3650b57d4e70249948d5e6bb186ad4553626/src/bash.svg" /></code>
-	<code><img title="Vim" height="30" src="https://github.com/esettes/esettes/blob/main/src/vim-.svg" /></code>
-	<code><img title="VS Code" height="30" src="https://github.com/esettes/esettes/blob/main/src/visual-studio-code.svg" /></code>
-	<code><img title="Visual Studio 2019/2022" height="30" src="https://github.com/esettes/esettes/blob/main/src/visual-studio.svg" /></code>
 </div>
 
 
@@ -69,10 +64,8 @@
 	<code><img title="ThreeJS" height="30" src="https://github.com/esettes/esettes/blob/main/src/threejs%20(1).svg" /></code>
 	<code><img title="npm" height="35" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" /></code>
 	<code><img title="WebGL" height="25" src="https://github.com/esettes/esettes/blob/main/src/WebGL_Logo.svg.png" /></code>
-	<code><img title="Vulcan" height="20" src="https://github.com/esettes/esettes/blob/main/src/Vulkan.png" /></code>
 	<code><img title="OpenGL" height="25" src="https://github.com/esettes/esettes/blob/main/src/opengl.svg" /></code>
 	<code><img title="WebPack" height="30" src="https://github.com/esettes/esettes/blob/main/src/webpack.svg" /></code>
-	<code><img title="NodeJS" height="30" src="https://github.com/esettes/esettes/blob/main/src/nodejs-icon.svg" /></code>
 	<code><img title="C++" height="30" src="https://github.com/esettes/esettes/blob/main/src/c-plusplus.svg" /></code>
 </div>
 
