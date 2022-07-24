@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-	<h6> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Born in 1995, interested in plastic and visual arts since I was little, and not long ago, in computer programming. Cross-platform developer since september 2021. Student at 42 Madrid (profile: iostancu) since january 2022.</h6>
+	<h6> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Born in 1995, cross-platform developer since september 2021. Student at 42 Madrid (profile: iostancu) since january 2022.</h6>
 </div>
 
 <br>
