@@ -32,7 +32,7 @@
 
  <div align="center">
 	<img vertical-align="bottom" height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esettes&custom_title=Most Used Languages&langs_count=6&include_repo=FDF_42&exclude_repo=lights_and_materials-threejs-,unity_URP_shader-graph_pract&theme=tokyonight&layout=compact" />
-	<img height="145" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esettes&langs_count=5&theme=tokyonight" />
+	<img height="145" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esettes&langs_count=5&,42-cybersec_arachnida&theme=tokyonight" />
 	
 </div>
 
