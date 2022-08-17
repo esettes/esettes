@@ -1,7 +1,6 @@
 ### Hi there! 😸 <img height="3%" width="3%" align="right" src="https://github.com/esettes/esettes/blob/main/src/gh-px.gif" />
 * * *
 
-<br>
 
 <div align="center">
 	<h6> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Born in 1995, cross-platform developer since september 2021. Student at 42 Madrid (profile: iostancu) since january 2022.</h6>
@@ -12,6 +11,8 @@
 <p align="center">
 	<img height="80" src="https://github.com/esettes/esettes/blob/main/src/typing-kitty.gif" /> 
 </p>
+
+<br>
 
 <img height="3.4%" width="3.4%" align="left" src="https://github.com/esettes/esettes/blob/main/src/mona-whisper.gif" />
 
@@ -34,8 +35,6 @@
 	<img height="145" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esettes&langs_count=5&,42-cybersec_arachnida&theme=tokyonight" />
 	
 </div>
-
-<br>
 
 #### :zap:  Skills
 
