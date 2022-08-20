@@ -29,15 +29,15 @@
 #### :rocket: Some GitHub stats:
 
 * * *
+
 <p>
 	<p align="center">
-		<img align="left" height="310" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esettes&langs_count=10&include_repo=FDF_42&exclude_repo=lights_and_materials-threejs-,unity_URP_shader-graph_pract&theme=tokyonight" />
+		<img align="left" height="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esettes&langs_count=10&include_repo=FDF_42&exclude_repo=lights_and_materials-threejs-,unity_URP_shader-graph_pract&theme=tokyonight" />
 		<div align="center">
 			<img height="148" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esettes&theme=tokyonight" />
-			<img height="145" align="left" vertical-align="bottom" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esettes&theme=tokyonight" />
-			<img height="145" align="left" vertical-align="top" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=esettes&theme=tokyonight"/>
 		</div>
 	</p>
+	<img height="169" align="left" src="https://github-profile-trophy.vercel.app/?username=esettes"/>
 </p>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
