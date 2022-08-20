@@ -37,10 +37,10 @@
 			<img height="148" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esettes&theme=tokyonight" />
 		</div>
 	</p>
-	<img height="169" align="left" src="https://github-profile-trophy.vercel.app/?username=esettes"/>
+	<img height="89" align="left" src="https://github-profile-trophy.vercel.app/?username=esettes&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&no-frame=true&margin-w=5&theme=tokyonight"/>
 </p>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 #### :zap:  Skills
 
