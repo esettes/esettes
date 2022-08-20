@@ -29,12 +29,18 @@
 #### :rocket: Some GitHub stats:
 
 * * *
+<p>
+	<p align="center">
+		<img align="left" height="310" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esettes&langs_count=10&include_repo=FDF_42&exclude_repo=lights_and_materials-threejs-,unity_URP_shader-graph_pract&theme=tokyonight" />
+		<div align="center">
+			<img height="148" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esettes&theme=tokyonight" />
+			<img height="145" align="left" vertical-align="bottom" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esettes&theme=tokyonight" />
+			<img height="145" align="left" vertical-align="top" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=esettes&theme=tokyonight"/>
+		</div>
+	</p>
+</p>
 
- <div align="center">
-	<img vertical-align="bottom" height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esettes&langs_count=6&include_repo=FDF_42&exclude_repo=lights_and_materials-threejs-,unity_URP_shader-graph_pract&theme=tokyonight&layout=compact" />
-	<img height="145" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esettes&langs_count=5&,42-cybersec_arachnida&theme=tokyonight" />
-	
-</div>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 #### :zap:  Skills
 
@@ -64,7 +70,7 @@
 	<code><img title="npm" height="35" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" /></code>
 	<code><img title="WebGL" height="25" src="https://github.com/esettes/esettes/blob/main/src/WebGL_Logo.svg.png" /></code>
 	<code><img title="OpenGL" height="25" src="https://github.com/esettes/esettes/blob/main/src/opengl.svg" /></code>
-  <code><img title="Docker" height="25" src="https://github.com/esettes/esettes/blob/main/src/docker.svg" /></code>
+<code><img title="Docker" height="25" src="https://github.com/esettes/esettes/blob/main/src/docker.svg" /></code>
 	<code><img title="WebPack" height="30" src="https://github.com/esettes/esettes/blob/main/src/webpack.svg" /></code>
 	<code><img title="C++" height="30" src="https://github.com/esettes/esettes/blob/main/src/c-plusplus.svg" /></code>
 </div>
