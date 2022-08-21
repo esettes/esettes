@@ -19,26 +19,28 @@
 ###### &nbsp; There are some 42 school projects and some personal/practice projects. 
 
 
-#### :star: Practice ThreeJS projects 
+#### Practice ThreeJS projects 
 ###### &nbsp; &nbsp; Using GitHub pages, builded with npm and webpack.
 
 - [ThreeJS with Typescript](https://esettes.github.io/webpack-threejs-pract/dist/client/) - _Some cubes dancing in the air._
 
-<br><br><br>
+<br><br>
 
 #### :rocket: Some GitHub stats:
 
 * * *
 
-<p align="center">
-	<img align="center" height="140" src="https://github.com/esettes/esettes/blob/main/src/pagespeed-stats.svg"/>
-	<div align="center">
-		<img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esettes&langs_count=12&include_repo=FDF_42&exclude_repo=lights_and_materials-threejs-&layout=compact&no-frame=true&hide=GLSL,HLSL,ShaderLab&theme=tokyonight" />
-		<img align="center" height="170" src="https://github-profile-trophy.vercel.app/?username=esettes&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&no-frame=true&column=3&margin-w=15&margin-h=15&theme=tokyonight"/>
-	</div>	
+<p>
+	<p align="center">
+		<img align="left" height="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esettes&langs_count=10&include_repo=FDF_42&exclude_repo=lights_and_materials-threejs-,unity_URP_shader-graph_pract&theme=tokyonight" />
+		<div align="center">
+			<img height="148" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esettes&theme=tokyonight" />
+		</div>
+	</p>
+	<img height="89" align="left" src="https://github-profile-trophy.vercel.app/?username=esettes&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&no-frame=true&margin-w=5&theme=tokyonight"/>
 </p>
 
-<br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 #### :zap:  Skills
 
@@ -75,7 +77,6 @@
 
 <br>
 
-Pushed 258 commits
 
 
 <!--
@@ -89,3 +90,4 @@ Pushed 258 commits
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
