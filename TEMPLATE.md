@@ -77,7 +77,6 @@
 
 <br>
 
-Pushed {{ COMMITS }} commits
 
 
 <!--
