@@ -1,9 +1,9 @@
 name: PSI-scores-to-SVG
 on:
   schedule:
-    - cron: '0 */6 * * *' # Runs every 6 hours
+    - cron: '0 */12 * * *' # Runs every 6 hours
   workflow_dispatch:  #runs manually 
-   push:
+  push:
       branches:
          - main
 jobs:
