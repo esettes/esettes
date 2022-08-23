@@ -2,11 +2,8 @@ name: Readme stats template
 
 on:
   schedule:
-    - cron: '0 */24 * * *' # every 6 hours
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+    - cron: '0 */24 * * *'
+
 jobs:
   publish:
     runs-on: ubuntu-latest
