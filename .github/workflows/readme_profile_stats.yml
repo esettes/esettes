@@ -1,11 +1,7 @@
 name: Readme Stats
 on:
   schedule:
-    - cron: '0 */6 * * *' # Runs every 6 hours
-  workflow_dispatch:  #runs manually  
-  push:
-    branches:
-      - main
+    - cron: '0 */6 * * *' 
 jobs:
   update-readme:
     name: Update Readme with Metrics
