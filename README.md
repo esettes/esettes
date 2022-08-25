@@ -1,23 +1,16 @@
-### Hi there! 😸 <img height="3%" width="3%" align="right" src="https://github.com/esettes/esettes/blob/main/src/gh-px.gif" />
+## Hi there! 😸 <img height="3%" width="3%" align="right" src="https://github.com/esettes/esettes/blob/main/src/gh-px.gif" />
 
-* * *
-
-
-<div align="center">
-	<h6> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Born in 1995, cross-platform developer since september 2021. Student at 42 Madrid (profile: iostancu) since january 2022.</h6>
-</div>
 
 <br>
 
 <p align="center">
-	<img height="80" src="https://github.com/esettes/esettes/blob/main/src/typing-kitty.gif" /> 
+	<img height="100" src="https://github.com/esettes/esettes/blob/main/src/typing-kitty.gif" /> 
 </p>
 
-<br>
+<br><br>
 
 <img height="3.4%" width="3.4%" align="left" src="https://github.com/esettes/esettes/blob/main/src/mona-whisper.gif" />
 
-###### &nbsp; There are some 42 school projects and some personal/practice projects. 
 * * *
 
 <details>
@@ -26,7 +19,7 @@
 <p align="center">
 	<img align="center" height="140" src="https://github.com/esettes/esettes/blob/main/src/pagespeed-stats.svg"/>
 	<div align="center">
-		<img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esettes&langs_count=12&include_repo=FDF_42&exclude_repo=lights_and_materials-threejs-&layout=compact&no-frame=true&hide=GLSL,HLSL,ShaderLab&theme=tokyonight" />
+		<img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esettes&langs_count=12&include_repo=FDF_42&exclude_repo=lights_and_materials-threejs-&layout=compact&no-frame=true&hide=GLSL,HLSL,ShaderLab,Mathematica&theme=tokyonight" />
 		<img align="center" height="170" src="https://github-profile-trophy.vercel.app/?username=esettes&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&no-frame=true&column=3&margin-w=15&margin-h=15&theme=tokyonight"/>
 	</div>	
 </p>
