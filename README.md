@@ -1,4 +1,5 @@
 ### Hi there! 😸 <img height="3%" width="3%" align="right" src="https://github.com/esettes/esettes/blob/main/src/gh-px.gif" />
+
 * * *
 
 
@@ -17,19 +18,11 @@
 <img height="3.4%" width="3.4%" align="left" src="https://github.com/esettes/esettes/blob/main/src/mona-whisper.gif" />
 
 ###### &nbsp; There are some 42 school projects and some personal/practice projects. 
-
-
-#### :star: Practice ThreeJS projects 
-###### &nbsp; &nbsp; Using GitHub pages, builded with npm and webpack.
-
-- [ThreeJS with Typescript](https://esettes.github.io/webpack-threejs-pract/dist/client/) - _Some cubes dancing in the air._
-
-<br><br>
-
-#### :rocket: Some GitHub stats:
-
 * * *
 
+<details>
+
+<summary><h4>:rocket:  Some GitHub stats </h4></summary>
 <p align="center">
 	<img align="center" height="140" src="https://github.com/esettes/esettes/blob/main/src/pagespeed-stats.svg"/>
 	<div align="center">
@@ -37,43 +30,49 @@
 		<img align="center" height="170" src="https://github-profile-trophy.vercel.app/?username=esettes&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&no-frame=true&column=3&margin-w=15&margin-h=15&theme=tokyonight"/>
 	</div>	
 </p>
+</details>
+
+
+<details>
+<summary><h5>:zap:  Skills /:sparkles: Interests</h5></summary>
 
 <br>
-
-#### :zap:  Skills
-
-* * *
 
 <div>
-	<code><img title="GNU tools" height="30" src="https://github.com/esettes/esettes/blob/main/src/gnu.svg" /></code>
-	<code><img title="Git" height="30" src="https://github.com/esettes/esettes/blob/main/src/git.svg" /></code>
-  <code><img title="Python" height="30" src="https://github.com/esettes/esettes/blob/main/src/python.svg" /></code>
-	<code><img title="JavaScript" height="30" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" /></code>
-	<code><img title="TypeScript" height="30" src="https://github.com/esettes/esettes/blob/main/src/typescript-icon.svg" /></code>
-	<code><img title="C" height="30" src="https://github.com/esettes/esettes/blob/main/src/c.png" /></code>
-	<code><img title="C#" height="30" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" /></code>
-	<code><img title="Unity" height="30" src="https://github.com/esettes/esettes/blob/main/src/unity.svg" /></code>
-	<code><img title="HTML" height="35" src="https://github.com/esettes/esettes/blob/main/src/html-5.svg" /></code>
-	<code><img title="bash" height="30" src="https://github.com/esettes/esettes/blob/main/src/bash-icon.svg" /></code>
+	<code><img title="GNU tools" height="25" src="https://github.com/esettes/esettes/blob/main/src/gnu.svg" /></code>
+	<code><img title="Git" height="25" src="https://github.com/esettes/esettes/blob/main/src/git.svg" /></code>
+  <code><img title="Python" height="25" src="https://github.com/esettes/esettes/blob/main/src/python.svg" /></code>
+	<code><img title="JavaScript" height="25" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" /></code>
+	<code><img title="TypeScript" height="25" src="https://github.com/esettes/esettes/blob/main/src/typescript-icon.svg" /></code>
+	<code><img title="C" height="25" src="https://github.com/esettes/esettes/blob/main/src/c.png" /></code>
+	<code><img title="C#" height="25" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" /></code>
+	<code><img title="Unity" height="25" src="https://github.com/esettes/esettes/blob/main/src/unity.svg" /></code>
+	<code><img title="HTML" height="30" src="https://github.com/esettes/esettes/blob/main/src/html-5.svg" /></code>
+	<code><img title="bash" height="25" src="https://github.com/esettes/esettes/blob/main/src/bash-icon.svg" /></code>
 </div>
-
-<br>
-
-#### :sparkles: Interests
 
 * * *
 
+
 <div align="bottom">
-	<code><img title="ThreeJS" height="30" src="https://github.com/esettes/esettes/blob/main/src/threejs.svg" /></code>
-	<code><img title="npm" height="35" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" /></code>
-	<code><img title="WebGL" height="25" src="https://github.com/esettes/esettes/blob/main/src/WebGL_Logo.svg.png" /></code>
-	<code><img title="OpenGL" height="25" src="https://github.com/esettes/esettes/blob/main/src/opengl.svg" /></code>
-<code><img title="Docker" height="25" src="https://github.com/esettes/esettes/blob/main/src/docker.svg" /></code>
-	<code><img title="WebPack" height="30" src="https://github.com/esettes/esettes/blob/main/src/webpack.svg" /></code>
-	<code><img title="C++" height="30" src="https://github.com/esettes/esettes/blob/main/src/c-plusplus.svg" /></code>
+	<code><img title="ThreeJS" height="25" src="https://github.com/esettes/esettes/blob/main/src/threejs.svg" /></code>
+	<code><img title="npm" height="30" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" /></code>
+	<code><img title="WebGL" height="20" src="https://github.com/esettes/esettes/blob/main/src/WebGL_Logo.svg.png" /></code>
+	<code><img title="OpenGL" height="20" src="https://github.com/esettes/esettes/blob/main/src/opengl.svg" /></code>
+<code><img title="Docker" height="20" src="https://github.com/esettes/esettes/blob/main/src/docker.svg" /></code>
+	<code><img title="WebPack" height="25" src="https://github.com/esettes/esettes/blob/main/src/webpack.svg" /></code>
+	<code><img title="C++" height="25" src="https://github.com/esettes/esettes/blob/main/src/c-plusplus.svg" /></code>
 </div>
+</details>
+
+<details>
+<summary><h5>:star: Github-pages</h5></summary>
 
 <br>
+
+- [ThreeJS with Typescript](https://esettes.github.io/webpack-threejs-pract/dist/client/) - _Some cubes dancing in the air._
+
+</details>
 
 
 <!--
