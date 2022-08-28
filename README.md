@@ -19,8 +19,8 @@
 <p align="center">
 	<img align="center" height="140" src="https://github.com/esettes/esettes/blob/main/src/pagespeed-stats.svg"/>
 	<div align="center">
-		<img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esettes&langs_count=12&include_repo=FDF_42&exclude_repo=lights_and_materials-threejs-&layout=compact&no-frame=true&hide=GLSL,HLSL,ShaderLab,Mathematica&theme=tokyonight" />
-		<img align="center" height="170" src="https://github-profile-trophy.vercel.app/?username=esettes&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&no-frame=true&column=3&margin-w=15&margin-h=15&theme=tokyonight"/>
+		<img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esettes&langs_count=8&include_repo=FDF_42&exclude_repo=lights_and_materials-threejs-,mandelbrot,unity_URP_shader-graph_pract&layout=compact&no-frame=true&hide=GLSL,HLSL,Mathematica&theme=tokyonight" />
+		<img align="center" height="160" src="https://github-profile-trophy.vercel.app/?username=esettes&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&no-frame=true&column=3&margin-w=5&margin-h=5&theme=tokyonight"/>
 	</div>	
 </p>
 </details>
