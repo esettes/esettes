@@ -7,12 +7,6 @@
 	<img height="100" src="https://github.com/esettes/esettes/blob/main/src/typing-kitty.gif" /> 
 </p>
 
-<br><br>
-
-<img height="3.4%" width="3.4%" align="left" src="https://github.com/esettes/esettes/blob/main/src/mona-whisper.gif" />
-
-* * *
-
 <details>
 
 <summary><h5>:rocket:  Some GitHub stats </h5></summary>
