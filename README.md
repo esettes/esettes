@@ -1,8 +1,3 @@
-## Hi there! 😸 <img height="3%" width="3%" align="right" src="https://github.com/esettes/esettes/blob/main/src/gh-px.gif" />
-
-
-<br>
-
 <p align="center">
 	<img height="100" src="https://github.com/esettes/esettes/blob/main/src/typing-kitty.gif" /> 
 </p>
