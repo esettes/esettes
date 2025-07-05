@@ -6,7 +6,7 @@
 
 <summary><h5>:rocket:  Some GitHub stats </h5></summary>
 <p align="center">
-	<img align="center" height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esettes&langs_count=8&exclude_repo=nand2tetris,lights_and_materials-threejs-,mandelbrot,unity_URP_shader-graph_pract&hide_title=true&layout=compact&no-frame=true&hide=GLSL,HLSL,Mathematica,Scilab,html&theme=tokyonight" />
+	<img align="center" height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esettes&langs_count=8&exclude_repo=nand2tetris,lights_and_materials-threejs-,mandelbrot&hide_title=true&layout=compact&no-frame=true&hide=GLSL,HLSL,Mathematica,Scilab,html&theme=tokyonight" />
 	<img align="center" height="120" src="https://github.com/esettes/esettes/blob/main/src/pagespeed-stats.svg"/>
 </p>
 </details>
