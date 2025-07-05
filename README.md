@@ -1,5 +1,5 @@
 <p align="center">
-	<img height="100" src="https://github.com/esettes/esettes/blob/main/src/typing-kitty.gif" /> 
+	<img height="10" src="https://github.com/esettes/esettes/blob/main/src/typing-kitty.gif" /> 
 </p>
 
 <details>
