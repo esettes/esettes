@@ -23,13 +23,13 @@
 <details>
 <summary><h5>💬 Self-hosted chat</h5></summary>
 
-	Caddy reverse proxy + deSEC DNS
-		https://baky.dedyn.io
 <br>
 
-- [ThreeJS with Typescript](https://esettes.github.io/webpack-threejs-pract/dist/client/) - _Some cubes dancing in the air._
+Caddy reverse proxy + deSEC DNS
+		[](https://baky.dedyn.io)
 
 </details>
+
 <!--
 
 - 🔭 I’m currently working on ...
