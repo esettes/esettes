@@ -22,11 +22,10 @@
 
 <details>
 <summary><h5>💬 Self-hosted chat</h5></summary>
-
 <br>
+<h6>Caddy reverse proxy + deSEC DNS</h6>
 
-Caddy reverse proxy + deSEC DNS
-		[](https://baky.dedyn.io)
+  [baky.dedyn.io](https://baky.dedyn.io/)
 
 </details>
 
